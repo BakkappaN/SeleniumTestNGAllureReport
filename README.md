@@ -1,4 +1,4 @@
-# SeleniumTestNGAllureReport
+# Selenium TestNG Allure Report
 
 Official website - https://docs.qameta.io/allure/#_installing_a_commandline
 
@@ -24,7 +24,7 @@ version must be displayed
 
 ## Step7: Refresh project & enter "allure serve allure-reportpathfromproject" in cmd.
 
-## Step8: You will report will be opened in browser after entering above cmd.
+## Step8: Your report will be opened in browser after entering above cmd.
 
 Additional -
 - https://docs.qameta.io/allure/#_testng to setup maven dependency
