@@ -26,6 +26,9 @@ version must be displayed
 
 ## Step8: You will report will be opened in browser after entering above cmd.
 
+Additional -
+- https://docs.qameta.io/allure/#_testng to setup maven dependency
+
 ## END
 
 # ENJOY...!!!
