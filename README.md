@@ -1,9 +1,9 @@
 # SeleniumTestNGAllureReport
 
-## Step1: Download "allure-commandline-2.17.3.zip" below url   
+## Step1: Download "allure-commandline-2.17.3.zip" from below url   
 https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/2.17.3/
 
-## Step2: Set system environment for bin folder
+## Step2: Set system environment variables for bin folder
 
 ## Step3: Verify installation using cmd prompt, enter "allure --version" in cmd.
 version must be displayed
