@@ -33,9 +33,9 @@ Additional -
 
 ## Step1: Add below build informationa and dependency to pom.xml
 
-  <properties>
-      <aspectj.version>1.8.10</aspectj.version>
-    </properties>
+    <properties>
+        <aspectj.version>1.8.10</aspectj.version>
+      </properties>
 
     <dependencies>
     <dependency>
