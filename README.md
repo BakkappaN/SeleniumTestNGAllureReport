@@ -22,7 +22,7 @@ version must be displayed
       
 ## Step6: Create testng suite file & execute it
 
-## Step7: Refresh project & enter "allure serve allure-reportpathfromproject" in cmd.
+## Step7: Refresh project & enter "allure serve allure-reportpathfromproject" in cmd or Just enter "allure serve" for rest assured tests.
 
 ## Step8: Your report will be opened in browser after entering above cmd.
 
