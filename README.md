@@ -20,6 +20,15 @@ version must be displayed
         <version>2.17.2</version>
       </dependency>
       
+      For Rest Assured -
+      <!--Allure Reporting Dependency-->
+		<dependency>
+			<groupId>io.qameta.allure</groupId>
+			<artifactId>allure-rest-assured</artifactId>
+			<version>2.14.0</version>
+		</dependency>
+      
+      
 ## Step6: Create testng suite file & execute it
 
 ## Step7: Refresh project & enter "allure serve allure-reportpathfromproject" in cmd or Just enter "allure serve" for rest assured tests.
