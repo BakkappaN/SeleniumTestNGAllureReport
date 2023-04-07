@@ -3,7 +3,7 @@
 Official website - https://docs.qameta.io/allure/#_installing_a_commandline
 
 ## Step1: Download "allure-commandline-2.17.3.zip" from below url   
-https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/2.17.3/
+https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline
 
 ## Step2: Set system environment variables for bin folder
 
